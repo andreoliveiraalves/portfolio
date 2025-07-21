@@ -1,0 +1,69 @@
+{
+  "header": {
+    "name": "André O. Alves",
+    "title": "Full-Stack Developer",
+    "contacts": {
+      "location": "Porto, Portugal",
+      "email": "Email-me",
+      "call": "Call-me"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "codewars": "Codewars"
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "databases": "Databases",
+    "tools": "Tools",
+    "design": "Design"
+  },
+  "languages": {
+    "title": "Languages",
+    "portuguese": {
+      "label": "Portuguese:",
+      "level": "Native"
+    },
+    "english": {
+      "label": "English:",
+      "level": "Advanced"
+    }
+  },
+  "summary": {
+    "summary": "Full-Stack Developer with 2 years of experience specializing in Vue.js and Node.js. Focused on building scalable and efficient web applications. Seeking remote opportunities to contribute to innovative solutions."
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "tedayc": {
+      "role": "Full-Stack Developer",
+      "globmatic": "Developed the website",
+      "manuals": "Created internal platform for instruction manuals",
+      "stockApp": "Developed web app for stock management",
+      "newsletter": "Implemented newsletter tool using Node.js and Nodemailer",
+      "gadoorSystem": "Developed industrial management system Gadoor (budgeting and production)",
+      "gadoorMaintenance": "Maintenance and improvements on"
+    },
+    "taw": {
+      "role": "Full-Stack Developer (Internship)",
+      "pwa": "Developed Progressive Web App (PWA) with Vue.js and TypeScript",
+      "api": "Created REST API with Node.js and PostgreSQL",
+      "collaboration": "Collaborated on web development projects"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "degree": "Bachelor's in Information Systems and Web Technologies",
+    "institution": "• Graduated 2023",
+    "projects": "Academic projects including dashboards with Vue.js",
+    "apiDev": "API development with Node.js",
+    "internship": "Internship at TAW Software"
+  },
+  "meta": {
+    "title": "André Oliveira Alves - Full-Stack Developer",
+    "description": "Portfolio of André Oliveira Alves, Full-Stack Developer specialized in Vue.js, Node.js and modern web development technologies.",
+    "keywords": "André Oliveira Alves, Full-Stack Developer, Vue.js, Node.js, JavaScript, Portugal, Web Developer, Resume, CV, Portfolio"
+  }
+}
