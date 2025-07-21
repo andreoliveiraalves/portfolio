@@ -1,6 +1,6 @@
-# Personal Portfolio – [Your Name]
+# Personal Portfolio – André Oliveira Alves
 
-🎨 A simple and clean personal portfolio built with HTML and CSS.
+🎨 A simple and clean personal portfolio built using Vue.js.
 
 🌐 **Live Demo:** [andre-aportfolio.netlify.app](https://andre-aportfolio.netlify.app/)
 
@@ -15,8 +15,8 @@
 To view the site locally:
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
-open index.html
+git https://github.com/andreoliveiraalves/portfolio.git
+cd portfolio
+run npm run dev
 
 
