@@ -17,6 +17,7 @@ To view the site locally:
 ```bash
 git https://github.com/andreoliveiraalves/portfolio.git
 cd portfolio
+npm install
 run npm run dev
 
 
