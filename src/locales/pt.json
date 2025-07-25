@@ -61,6 +61,15 @@
     "apiDev": "Desenvolvimento de APIs em Node.js",
     "internship": "Estágio curricular na TAW Software"
   },
+  "projects": {
+    "title": "Os meus projetos",
+    "projects": [
+      {
+        "title": "Conversor de Moedas",
+        "description": "Aplicação web que permite converter moedas em tempo real usando taxas do Banco Central Europeu."
+      }
+    ]
+  },
   "meta": {
     "title": "André Oliveira Alves - Full-Stack Developer",
     "description": "Portfólio de André Oliveira Alves, Full-Stack Developer especializado em Vue.js, Node.js e tecnologias modernas para desenvolvimento web.",

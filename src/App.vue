@@ -9,6 +9,8 @@ import Sidebar from './components/Sidebar.vue'
 import Summary from './components/Summary.vue'
 import Experience from './components/Experience.vue'
 import Education from './components/Education.vue'
+import GithubLink from './components/GithubLink.vue'
+import Projects from './components/Projects.vue'
 
 const { t, locale } = useI18n()
 
@@ -52,14 +54,17 @@ watch(locale, () => {
           <div class="section">
             <Experience />
           </div>
-           <div class="section">
+          <div class="section">
             <Education />
+          </div>
+          <div class="section">
+            <Projects />
           </div>
         </div>
       </div>
     </div>
+    <GithubLink link="https://github.com/andreoliveiraalves/portfolio" />
   </div>
-  <!-- resto do conteúdo -->
 </template>
 
 <style scoped>
